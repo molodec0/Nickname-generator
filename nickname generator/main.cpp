@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 	system("chcp 1251 > nul");
 
-	cout << "Ïðîãðàììà â ðàçðàáîòêå! =)";
+	cout << "ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð° Ð² Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐµ! =)";
 
 	system("pause > nul");
 
